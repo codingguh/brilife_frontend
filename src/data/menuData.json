@@ -1,0 +1,126 @@
+[
+    {
+        "header": "",
+        "items": [
+            {
+                "text": "Dashboard",
+                "icon": "bx bx-home",
+                "available": true,
+                "link": "/"
+            },
+            {
+                "text": "Dashboard Agen",
+                "icon": "bx bx-home",
+                "available": true,
+                "link": "/agenStruktur"
+            },
+            {
+                "text": "Data Agen",
+                "icon": "bx bx-layout",
+                "available": true,
+                "link": "/dataAgen"
+              
+            },
+            {
+                "text": "Data Agen Struktur",
+                "icon": "bx bx-layout",
+                "available": true,
+                "link": "/dataAgenStruktur"
+              
+            },
+            {
+                "text": "Front Pages",
+                "icon": "bx bx-store",
+                "available": false,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Landing",
+                        "available": true,
+                        "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/front-pages/landing-page.html"
+                    },
+                    {
+                        "text": "Pricing",
+                        "available": true,
+                        "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/front-pages/pricing-page.html"
+                    },
+                    {
+                        "text": "Payment",
+                        "available": true,
+                        "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/front-pages/payment-page.html"
+                    },
+                    {
+                        "text": "Checkout",
+                        "available": true,
+                        "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/front-pages/checkput-page.html"
+                    },
+                    {
+                        "text": "Help Center",
+                        "available": true,
+                        "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/front-pages/help-center-landing.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "header": "FORMS & TABLES",
+        "items": [
+            {
+                "text": "Form Elements",
+                "icon": "bx bx-detail",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Basic Input",
+                        "available": true,
+                        "link": "/form/basic-inputs"
+                    },
+                    {
+                        "text": "Input Groups",
+                        "available": true,
+                        "link": "/form/input-groups"
+                    }
+                ]
+            },
+            {
+                "text": "Form Layout",
+                "icon": "bx bx-detail",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Vertical Form",
+                        "available": true,
+                        "link": "/form-layout/vertical-form"
+                    },
+                    {
+                        "text": "Horizontal Form",
+                        "available": true,
+                        "link": "/form-layout/horizontal-form"
+                    }
+                ]
+            },
+            {
+                "text": "Validation",
+                "icon": "bx bx-list-check",
+                "available": false,
+                "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/vertical-menu-template/form-validation.html"
+            },
+            {
+                "text": "Tables",
+                "icon": "bx bx-table",
+                "available": true,
+                "link": "/tables"
+            },
+            {
+                "text": "Datatablse",
+                "icon": "bx bx-grid",
+                "available": false,
+                "link": "https://demos.themeselection.com/sneat-bootstrap-html-admin-template/html/vertical-menu-template/tables-datatables-basic.html"
+            }
+        ]
+    }
+  
+]
